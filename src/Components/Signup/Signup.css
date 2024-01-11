@@ -1,6 +1,6 @@
 .signupParentDiv {
     border: 1px solid black;
-    width: max-content;
+    width: 310px;
     padding: 10px;
     position: absolute;
     top: 50%;
@@ -10,6 +10,8 @@
   }
   
   .signupParentDiv .input {
+    width: 280px;
+    margin-bottom: 10px;
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
